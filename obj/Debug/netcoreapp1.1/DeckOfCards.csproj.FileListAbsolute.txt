@@ -1,0 +1,16 @@
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.deps.json
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.json
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.dll
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.pdb
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.dll
+C:\Users\BigDy\Desktop\Cfun\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.pdb
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\bin\Debug\netcoreapp1.1\DeckOfCards.deps.json
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.json
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\bin\Debug\netcoreapp1.1\DeckOfCards.dll
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\bin\Debug\netcoreapp1.1\DeckOfCards.pdb
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\obj\Debug\netcoreapp1.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\obj\Debug\netcoreapp1.1\DeckOfCards.dll
+C:\Users\Sereina\Documents\Coding_Dojo\C#\bj\BlackJack\obj\Debug\netcoreapp1.1\DeckOfCards.pdb
